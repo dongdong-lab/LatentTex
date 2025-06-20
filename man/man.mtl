@@ -1,0 +1,8 @@
+newmtl man_mat
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ni 1.53
+illum 3
+map_Kd texture.jpg
+map_Ka texture.jpg
+
