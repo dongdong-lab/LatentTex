@@ -4,7 +4,7 @@
 ## Abstract
 
 ## Framework
-![image-framework]()
+![image-framework](https://github.com/dongdong-lab/LatentTex/blob/main/framework.png)
 
 ## Code
 
