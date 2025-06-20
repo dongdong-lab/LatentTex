@@ -9,7 +9,7 @@
 ## Code
 ```
 pip install -r requirements.txt
-python attack_base.py
+python attack.py
 ```
 ## Dataset
 
